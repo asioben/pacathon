@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "texture.h": "c",
+        "time.h": "c"
+    }
+}
